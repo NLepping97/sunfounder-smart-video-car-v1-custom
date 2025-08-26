@@ -69,7 +69,7 @@ This project re-implements the robot car control from scratch (without the offic
 
 1. Clone repo:
   ```bash
-  git clone https://github.com/<your-username>/sunfounder-smart-video-car-v1-custom.git
+  git clone https://github.com/NLepping97/sunfounder-smart-video-car-v1-custom.git
   cd sunfounder-smart-video-car-v1-custom
   ```
 2. Install dependencies:
